@@ -8,6 +8,7 @@
     "start": "webpack-dev-server"
   },
   "dependencies": {
+    "jquery": "^3.1.1",
     "react": "15.0.2",
     "react-addons-test-utils": "15.0.2",
     "react-dom": "15.0.2"
