@@ -1,4 +1,4 @@
-> This repo is accompanies the blog post [An example of testing React using Enzyme](https://medium.com/@kevinsalter/testing-react-with-enzyme-fbfc30190e70#.mgcyb66ct)
+> This repo accompanies the blog post [An example of testing React using Enzyme](https://medium.com/@kevinsalter/testing-react-with-enzyme-fbfc30190e70#.mgcyb66ct)
 
 `npm install` to get started, then `npm run test`.
 
